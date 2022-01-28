@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hy2jinl22@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/hy2jin-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hy2jin.l22)
 
-#### I'm hyejin!
+#### I'm hyejin.
 
 ## 💻 Stack
 #### Techs that I've used at least once
