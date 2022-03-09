@@ -1,4 +1,4 @@
-## 👋 Hi, I'M LEE HYE JIN!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=30&color=00C396&center=true&vCenter=true&height=80&lines=Hi+there%2C+I'm+Hyejin%F0%9F%98%89)](https://git.io/typing-svg)
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy2jin&count_bg=%234E48AA&title_bg=%23C1BFDF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
