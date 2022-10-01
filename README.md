@@ -2,9 +2,6 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy2jin&count_bg=%234E48AA&title_bg=%23C1BFDF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy2jin&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=laaang93)](https://solved.ac/laaang93)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hy2jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
