@@ -2,8 +2,7 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy2jin&count_bg=%234E48AA&title_bg=%23C1BFDF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![image](https://user-images.githubusercontent.com/87624430/193414448-45b8cbf6-e80c-4c65-9f76-0a21dcf7583f.png)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hy2jin&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
